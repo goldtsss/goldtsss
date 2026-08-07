@@ -16,7 +16,7 @@ Olá, eu sou o Matheus, tudo bem?
 
 ---
 
-## 🚀 Técnicas Amaldiçoadas (Linguagens & Ferramentas)
+## 🚀 Técnica Amaldiçoada (transfiguracão de codigos)
 
 Aqui estão as linguagens e tecnologias que utilizo nos meus projetos e estudos:
 
@@ -27,8 +27,6 @@ Aqui estão as linguagens e tecnologias que utilizo nos meus projetos e estudos:
 ![Godot](https://img.shields.io/badge/Godot%20(GDScript)-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
 
 ---
-
-## 🟣 Expansão de Domínio: Passatempos & Curiosidades
 
 - 📖 Adoro ler **mangás**.
 - 📺 Curto bastante assistir **animes**.
