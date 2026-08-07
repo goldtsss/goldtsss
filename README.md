@@ -2,7 +2,7 @@
 
 # 💀 Olá! Eu sou o Matheus (goldtsss) 👋
 
-<img src="https://media.giphy.com/media/eY1XZYYCd1L393fJ82/giphy.gif" alt="Mahito - Jujutsu Kaisen" width="320" style="border-radius: 12px; border: 2px solid #9D4EDD;" />
+<img src="https://i.giphy.com/media/eY1XZYYCd1L393fJ82/giphy.gif" alt="Mahito - Jujutsu Kaisen" width="320" style="border-radius: 12px; border: 2px solid #9D4EDD;" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Estudante+de+Rob%C3%B3tica+e+Programa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+de+Jogos;Moldando+C%C3%B3digos+como+Almas" alt="Typing SVG" />
@@ -17,7 +17,7 @@
 Olá, eu sou o Matheus, tudo bem?
 
 - 🎓 Atualmente sou **estudante de Robótica e Programação**.
-- 🎮 Minha foco principal é o **desenvolvimento de jogos**.
+- 🎮 Meu foco principal é o **desenvolvimento de jogos**.
 - 🔮 Gosto de explorar novas engines, linguagens e criar mecânicas de jogos.
 
 ---
