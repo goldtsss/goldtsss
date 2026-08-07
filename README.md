@@ -6,7 +6,7 @@
 
 ---
 
-### 🤖 Perfil de Feiticeiro (Sobre Mim)
+## 🤖 Perfil de Feiticeiro (Sobre Mim)
 
 Olá, eu sou o Matheus, tudo bem?
 
@@ -16,7 +16,7 @@ Olá, eu sou o Matheus, tudo bem?
 
 ---
 
-### 🚀 Técnicas Amaldiçoadas (Linguagens & Ferramentas)
+## 🚀 Técnicas Amaldiçoadas (Linguagens & Ferramentas)
 
 Aqui estão as linguagens e tecnologias que utilizo nos meus projetos e estudos:
 
@@ -28,14 +28,10 @@ Aqui estão as linguagens e tecnologias que utilizo nos meus projetos e estudos:
 
 ---
 
-### 🟣 Expansão de Domínio: Passatempos & Curiosidades
+## 🟣 Expansão de Domínio: Passatempos & Curiosidades
 
 - 📖 Adoro ler **mangás**.
 - 📺 Curto bastante assistir **animes**.
 - 🎲 Sou fã de **RPG** (de mesa e digitais).
 - 🎮 Apaixonado por **video games**.
 - 💜 Minha cor favorita é **roxo**!
-
----
-
-*"Transformando ideias, almas e códigos em jogos!"*
