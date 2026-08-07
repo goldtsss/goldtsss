@@ -1,24 +1,30 @@
-<h1 align="center">Olá! Eu sou o Matheus (goldtsss) 👋</h1>
+<div align="center">
+
+# 💀 Olá! Eu sou o Matheus (goldtsss) 👋
+
+<img src="https://media.giphy.com/media/eY1XZYYCd1L393fJ82/giphy.gif" alt="Mahito - Jujutsu Kaisen" width="320" style="border-radius: 12px; border: 2px solid #9D4EDD;" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Estudante+de+Rob%C3%B3tica+e+Programa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+de+Jogos;Apaixonado+por+Tecnologia+e+RPGs" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Estudante+de+Rob%C3%B3tica+e+Programa%C3%A7%C3%A3o;Focado+em+Desenvolvimento+de+Jogos;Moldando+C%C3%B3digos+como+Almas" alt="Typing SVG" />
 </p>
 
+</div>
+
 ---
 
-### 🤖 Sobre Mim
+### 🤖 Perfil de Feiticeiro (Sobre Mim)
 
-Olá, eu sou o Matheus, tudo bem? 
+Olá, eu sou o Matheus, tudo bem?
 
 - 🎓 Atualmente sou **estudante de Robótica e Programação**.
-- 🎮 Meu foco principal é o **desenvolvimento de jogos**.
-- 🔮 Gosto de explorar novas engines, linguagens e mecânicas de jogos.
+- 🎮 Minha foco principal é o **desenvolvimento de jogos**.
+- 🔮 Gosto de explorar novas engines, linguagens e criar mecânicas de jogos.
 
 ---
 
-### 🚀 Linguagens & Tecnologias
+### 🚀 Técnicas Amaldiçoadas (Linguagens & Ferramentas)
 
-Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
+Aqui estão as linguagens e tecnologias que utilizo nos meus projetos e estudos:
 
 <div align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -30,7 +36,7 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 
 ---
 
-### 🟣 Passatempos & Curiosidades
+### 🟣 Expansão de Domínio: Passatempos & Curiosidades
 
 - 📖 Adoro ler **mangás**.
 - 📺 Curto bastante assistir **animes**.
@@ -41,5 +47,5 @@ Aqui estão as linguagens e ferramentas que utilizo nos meus estudos e projetos:
 ---
 
 <p align="center">
-  <i>"Transformando ideias e códigos em jogos!"</i>
+  <i>"Transformando ideias, almas e códigos em jogos!"</i>
 </p>
